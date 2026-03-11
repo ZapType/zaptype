@@ -44,7 +44,7 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=collabdwaar7-droid&theme=tokyonight&no-frame=true&row=1&column=7)
 
-## 💻 Top Languages
+## 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=collabdwaar7-droid&layout=compact&theme=tokyonight)
 
