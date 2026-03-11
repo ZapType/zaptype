@@ -5,6 +5,12 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Sohil;Developer;Open+Source+Learner;Building+ZapType+Projects)
 # Hi 👋 I'm Sohil
 
+<p align="center">
+<a href="https://zaptype.in">
+<img src="https://img.shields.io/badge/Website-ZapType-blue?style=for-the-badge&logo=google-chrome">
+</a>
+</p>
+
 💻 Developer | Open Source Learner  
 🚀 Building cool projects with TypeScript  
 🌱 Currently learning AI & Web Development  
