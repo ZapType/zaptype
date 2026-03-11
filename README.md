@@ -1,11 +1,16 @@
-## Hi there 👋
-
-<!--
-**collabdwaar7-droid# Hi 👋 I'm Sohil
+# Hi 👋 I'm Sohil
 
 💻 Developer | Open Source Learner  
 🚀 Building cool projects with TypeScript  
 🌱 Currently learning AI & Web Development  
+
+---
+
+## 🌐 My Websites
+
+- https://zaptype.in
+- https://lab.zaptype.in
+- https://cpstest.zaptype.in
 
 ---
 
@@ -27,21 +32,3 @@
 ## 🔥 GitHub Streak
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=collabdwaar7-droid&theme=tokyonight)
-
----
-
-## 🌍 Website
-
-https://zaptype.in/collabdwaar7-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
