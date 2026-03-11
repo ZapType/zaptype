@@ -42,9 +42,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
-<img src="https://github-profile-trophy.vercel.app/?username=collabdwaar7-droid&theme=tokyonight" />
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=collabdwaar7-droid&theme=tokyo-night)
+
+---
 
 # 📊 Most Used Languages
 
