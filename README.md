@@ -55,7 +55,7 @@
 ## 🧊 3D Contribution Cube
 
 <p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 # 📊 Most Used Languages
