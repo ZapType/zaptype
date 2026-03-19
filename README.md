@@ -72,8 +72,9 @@
 
 # 🐍 Contribution Snake
 
-![Snake animation](https://github.com/collabdwaar7-droid/collabdwaar7-droid/raw/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 ---
 
 # 👀 Profile Views
