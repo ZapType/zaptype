@@ -52,12 +52,6 @@
 
 ---
 
-## 🧊 3D Contribution Cube
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 # 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=collabdwaar7-droid&layout=compact&theme=tokyonight)
