@@ -55,7 +55,7 @@
 ## 🧊 3D Contribution Cube
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=collabdwaar7-droid&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 # 📊 Most Used Languages
